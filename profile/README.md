@@ -1,0 +1,13 @@
+<p align="center">
+    <img src="../assets/Logo.png" width="256" height="256" />
+</p>
+
+<p align="center">
+    <b>SwiftPE:</b> Innowacyjny serwer Minecraft: Bedrock Edition.
+</p>
+
+<hr />
+
+<h3 align="center">
+    <a href="https://www.SwiftPE.pl/" style="color: #FFAA00">www.SwiftPE.pl</a>&nbsp;&nbsp;&nbsp;<span style="color: #F0F0F0">|</span>&nbsp;&nbsp;&nbsp;<a href="https://dc.SwiftPE.pl/" style="color: #FFAA00">dc.SwiftPE.pl</a>
+</h3>
