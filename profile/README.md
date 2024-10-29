@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/LeafPE.png" width="512" height="512" />
+    <img src="../assets/LeafPE.png" width="384" height="384" />
 </p>
 
 <p align="center">
