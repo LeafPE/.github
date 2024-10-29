@@ -1,13 +1,12 @@
 <p align="center">
-    <img src="../assets/Logo.png" width="613" height="99" />
+    <img src="../assets/Logo.png" width="512" height="512" />
 </p>
 
 <p align="center">
-    <b>SwiftPE:</b> Innowacyjny serwer Minecraft: Bedrock Edition.
+    <b>LeafPE:</b> Innowacyjny serwer Minecraft: Bedrock Edition.
 </p>
 
-<hr />
+---
 
-<h3 align="center">
-    <a href="https://www.SwiftPE.pl/">www.SwiftPE.pl</a>&nbsp;&nbsp;&nbsp;<span style="color: #F0F0F0">|</span>&nbsp;&nbsp;&nbsp;<a href="https://dc.SwiftPE.pl/">dc.SwiftPE.pl</a>
-</h3>
+- Strona serwera: <a href="https://www.LeafPE.pl/">www.LeafPE.pl</a>
+- Serwer Discord: <a href="https://dc.LeafPE.pl/">dc.LeafPE.pl</a>
